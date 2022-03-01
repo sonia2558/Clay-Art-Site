@@ -1,0 +1,76 @@
+main{
+	background-image: url(img/Fon.png);
+	height: 892px;
+	width: 1400px;
+	margin: 0 auto; 
+	align-content: center;
+	box-shadow: 30;
+}
+body{
+	height: 5000px;
+	font-family: 'Reenie Beanie', cursive;
+}
+.logo{
+	padding-top: 145px;
+	padding-left: 606px;
+}
+.zagolovok{
+	padding-top: 80px;
+	padding-left: 450px;
+	font-family: 'Reenie Beanie', cursive;
+	color: white;
+	font-weight: normal;
+	font-size: 96px;
+	line-height: 1px;
+}
+.mainp{
+	font-family: 'Reenie Beanie', cursive;
+	color: white;
+	font-size: 48px;
+	width: 504px;
+	height: 219px;
+	padding-left: 450px;
+	text-align: center;
+	padding-top: 1px;
+}
+.text-adv{
+	padding-top: 40px;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 32px;
+	color: #733E3E;
+	line-height: 1px;
+	text-align: center;
+}
+.line{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+	display: flex;
+	justify-content: center;
+	width: 1330px;
+	height: 500px;
+	margin: 0 auto;
+	align-items: center;
+}
+.handmade{
+	background-image: url(img/ellipse.png);
+	width: 600px;
+	height: 450px;
+}
+.planet{
+	background-image: url(img/ellipse.png);
+	width: 600px;
+	height: 450px;
+}
+.delivery{
+	background-image: url(img/ellipse.png);
+	width: 600px;
+	height: 450px;
+}
+.img-adv{
+	margin-top: 100px;
+	margin-left: 60px;
+}
